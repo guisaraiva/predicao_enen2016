@@ -46,5 +46,25 @@ Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRIC
 
 ![image](https://user-images.githubusercontent.com/15157510/66668946-d3f0ca80-ec2c-11e9-873b-53e5bd6590c5.png)
 
+# Plotando um gráfico com o relacionamento das Features.
 
+![image](https://user-images.githubusercontent.com/15157510/66669368-b4a66d00-ec2d-11e9-80c3-484975dc9e7d.png)
+
+# Excluíndo dados nulos e com valor zero
+
+![image](https://user-images.githubusercontent.com/15157510/66669870-c89e9e80-ec2e-11e9-8822-8e7e25fa6e2d.png)
+
+![image](https://user-images.githubusercontent.com/15157510/66669896-db18d800-ec2e-11e9-80a7-e9caab13906b.png)
+
+# Verificando se ainda existem valores nulos ou zeros
+
+![image](https://user-images.githubusercontent.com/15157510/66669943-f2f05c00-ec2e-11e9-95e9-4abe646fb12f.png)
+
+# Alterando os valores nulos para zero
+
+![image](https://user-images.githubusercontent.com/15157510/66670243-ae18f500-ec2f-11e9-973f-d6f8e4e74dec.png)
+
+# Armazenando as Features de teste e treino. Iniciando o processo de treinamento do algoritmo.
+
+![image](https://user-images.githubusercontent.com/15157510/66670480-4a42fc00-ec30-11e9-86ca-8d2d5090ac71.png)
 
