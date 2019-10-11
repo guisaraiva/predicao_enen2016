@@ -20,3 +20,20 @@ Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRIC
 
 ![image](https://user-images.githubusercontent.com/15157510/66667185-d81ae900-ec28-11e9-9be9-82eea17bb3ae.png)
 
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Sklearn](https://scikit-learn.org/stable/documentation.html/)
+* [Seaborn](https://seaborn.pydata.org/)
+
+# Importando os arquivos de dados
+
+![image](https://user-images.githubusercontent.com/15157510/66667769-28df1180-ec2a-11e9-9167-e893146c946c.png)
+
+# Visualizando as Features
+
+![image](https://user-images.githubusercontent.com/15157510/66667814-40b69580-ec2a-11e9-959f-7e858c84b044.png)
+
+# Visualizando a correlação das Features
+
+![image](https://user-images.githubusercontent.com/15157510/66667912-7eb3b980-ec2a-11e9-8074-6d0a751ce572.png)
+
