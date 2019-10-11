@@ -18,12 +18,13 @@ Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRIC
 
 # Importando as bibliotecas no jupyter notebook
 
-![image](https://user-images.githubusercontent.com/15157510/66667185-d81ae900-ec28-11e9-9be9-82eea17bb3ae.png)
+![image](https://user-images.githubusercontent.com/15157510/66669261-76a94900-ec2d-11e9-9feb-d96bf7fb857c.png)
 
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Sklearn](https://scikit-learn.org/stable/documentation.html/)
 * [Seaborn](https://seaborn.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
 
 # Importando os arquivos de dados
 
@@ -40,6 +41,10 @@ Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRIC
 # Separando as Features importantes
 
 ![image](https://user-images.githubusercontent.com/15157510/66668824-7bb9c880-ec2c-11e9-8df1-12c799e97995.png)
+
+# Verificando as Features com valores nulos.
+
+![image](https://user-images.githubusercontent.com/15157510/66668946-d3f0ca80-ec2c-11e9-873b-53e5bd6590c5.png)
 
 
 
