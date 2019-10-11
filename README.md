@@ -18,3 +18,5 @@ Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRIC
 
 # Importando as bibliotecas no jupyter notebook
 
+![image](https://user-images.githubusercontent.com/15157510/66667185-d81ae900-ec28-11e9-9be9-82eea17bb3ae.png)
+
