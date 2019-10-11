@@ -14,5 +14,7 @@ redação: 3
 No arquivo test.csv crie um modelo para prever nota da prova de matemática (coluna NU_NOTA_MT) de quem participou do ENEM 2016.
 Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRICAO e NU_NOTA_MT.
 
-
 [Referência - Codenation](https://www.codenation.dev/aceleradev/ds-belohorizonte-1/)
+
+# Importando as bibliotecas no jupyter notebook
+
