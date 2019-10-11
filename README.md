@@ -27,13 +27,19 @@ Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRIC
 
 # Importando os arquivos de dados
 
-![image](https://user-images.githubusercontent.com/15157510/66667769-28df1180-ec2a-11e9-9167-e893146c946c.png)
+![image](https://user-images.githubusercontent.com/15157510/66668280-3c3eac80-ec2b-11e9-876d-fc8fdf2ef3c4.png)
 
 # Visualizando as Features
 
-![image](https://user-images.githubusercontent.com/15157510/66667814-40b69580-ec2a-11e9-959f-7e858c84b044.png)
+![image](https://user-images.githubusercontent.com/15157510/66668434-a2c3ca80-ec2b-11e9-8fc8-9b2efe9c3dc0.png)
 
 # Visualizando a correlação das Features
 
-![image](https://user-images.githubusercontent.com/15157510/66667912-7eb3b980-ec2a-11e9-8074-6d0a751ce572.png)
+![image](https://user-images.githubusercontent.com/15157510/66668585-f7674580-ec2b-11e9-9e69-a05090803a78.png)
+
+# Separando as Features importantes
+
+![image](https://user-images.githubusercontent.com/15157510/66668824-7bb9c880-ec2c-11e9-8df1-12c799e97995.png)
+
+
 
