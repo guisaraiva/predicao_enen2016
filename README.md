@@ -68,3 +68,31 @@ Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRIC
 
 ![image](https://user-images.githubusercontent.com/15157510/66670480-4a42fc00-ec30-11e9-86ca-8d2d5090ac71.png)
 
+# RandomForest
+
+![image](https://user-images.githubusercontent.com/15157510/66670697-c4738080-ec30-11e9-8219-6561583e30b4.png)
+
+# Treinando o algoritmo
+
+![image](https://user-images.githubusercontent.com/15157510/66671332-254f8880-ec32-11e9-8090-e4e05d281a16.png)
+
+# Prevendo os valores na base de teste
+
+![image](https://user-images.githubusercontent.com/15157510/66671401-4617de00-ec32-11e9-902b-110fe5d0c56b.png)
+
+# Visualizando os 10 primeiros registros da predição.
+
+![image](https://user-images.githubusercontent.com/15157510/66671464-6e074180-ec32-11e9-8a6c-a4294f1cd3e1.png)
+
+# Criando um Data Frame com o resultado.
+
+![image](https://user-images.githubusercontent.com/15157510/66671558-ab6bcf00-ec32-11e9-9943-970982197e48.png)
+
+# Criando as colunas no Data Frame de resposta.
+
+![image](https://user-images.githubusercontent.com/15157510/66671619-d6562300-ec32-11e9-85bb-07cc09d06328.png)
+
+# Exportando os resultado para o arquivo desejado no formato CSV.
+
+![image](https://user-images.githubusercontent.com/15157510/66671713-07365800-ec33-11e9-9e7f-46d298cc5465.png)
+
